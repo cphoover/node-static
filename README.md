@@ -1,6 +1,9 @@
 node-static
 ===========
 
+
+**THIS FORK ALLOWS FOR DISABLING OF CACHE VIA CLI**
+
 > a simple, *rfc 2616 compliant* file streaming module for [node](http://nodejs.org)
 
 node-static understands and supports *conditional GET* and *HEAD* requests.
